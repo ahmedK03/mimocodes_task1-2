@@ -1,0 +1,52 @@
+@media all and (max-width:575px) {
+    .parallex_imgs img {
+        display: none;
+    }
+    #about {
+        border-radius: 80px 0 0 80px;
+        -webkit-border-radius: 80px 0 0 80px;
+        -moz-border-radius: 80px 0 0 80px;
+        -ms-border-radius: 80px 0 0 80px;
+        -o-border-radius: 80px 0 0 80px;
+    }
+    #pricing {
+        border-radius: 0 80px 80px 0;
+        -webkit-border-radius: 0 80px 80px 0;
+        -moz-border-radius: 0 80px 80px 0;
+        -ms-border-radius: 0 80px 80px 0;
+        -o-border-radius: 0 80px 80px 0;
+    }
+    #contact {
+        border-radius: 50px 0 0 50px;
+        -webkit-border-radius: 50px 0 0 50px;
+        -moz-border-radius: 50px 0 0 50px;
+        -ms-border-radius: 50px 0 0 50px;
+        -o-border-radius: 50px 0 0 50px;
+    }
+    #contact .contact {
+        padding-left: 30px;
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+    #contact .contact .contact-info {
+        border-radius: 35px 0 0 0;
+        -webkit-border-radius: 35px 0 0 0;
+        -moz-border-radius: 35px 0 0 0;
+        -ms-border-radius: 35px 0 0 0;
+        -o-border-radius: 35px 0 0 0;
+    }
+    #contact .contact .form_section {
+        border-radius: 0 0 0 35px;
+        -webkit-border-radius: 0 0 0 35px;
+        -moz-border-radius: 0 0 0 35px;
+        -ms-border-radius: 0 0 0 35px;
+        -o-border-radius: 0 0 0 35px;
+    }
+    .footer_main {
+        border-radius: 0 65px 0 0;
+        -webkit-border-radius: 0 65px 0 0;
+        -moz-border-radius: 0 65px 0 0;
+        -ms-border-radius: 0 65px 0 0;
+        -o-border-radius: 0 65px 0 0;
+    }
+}
